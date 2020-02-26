@@ -9,5 +9,4 @@ check:
 
 clean:
 	$(OCAMLBUILD) -clean
-	rm -f tiny
-	rm -f result
+	rm -f tiny result
